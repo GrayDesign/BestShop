@@ -1,1 +1,40 @@
+:root {
+  --font-raleway: "Raleway", sans-serif;
+  --font-open-sans: "Open Sans", sans-serif;
 
+  --color-primary: #08A6E4;
+  --color-primary-light: #07ACE6;
+  --color-primary-shadow: 5px 10px 14px #07ACE629;
+
+  --color-secondary: #FB3B64;
+  --color-secondary-btn: #EB476E;
+
+  --color-third: #55DFB4;
+
+  --color-font: #000000;
+  --color-font-secondary: #A5A5A5;
+  --color-font-third: #707070;
+
+  --color-border: #E8E9ED;
+  --color-border-shadow: #00000029;
+
+  --color-background: #FFFFFF;
+  --color-background-secondary: #F7F7F7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-open-sans);
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: var(--font-raleway);
+  font-size: 2.25rem;
+}
