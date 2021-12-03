@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../KRA_FER_W_16_Zaawansowany_HTML_i_CSS/05_Dzien_3/03_Tworzenie_ukladu_strony/01_Jem_Warzywa/.idea/01_Jem_Warzywa.iml" filepath="$PROJECT_DIR$/../KRA_FER_W_16_Zaawansowany_HTML_i_CSS/05_Dzien_3/03_Tworzenie_ukladu_strony/01_Jem_Warzywa/.idea/01_Jem_Warzywa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KRA_FER_W_16_Zaawansowany_HTML_i_CSS/09_Dzien_5_Gotowy_Warsztat/.idea/09_Dzien_5_Gotowy_Warsztat.iml" filepath="$PROJECT_DIR$/../KRA_FER_W_16_Zaawansowany_HTML_i_CSS/09_Dzien_5_Gotowy_Warsztat/.idea/09_Dzien_5_Gotowy_Warsztat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BestShop.iml" filepath="$PROJECT_DIR$/.idea/BestShop.iml" />
     </modules>
   </component>
